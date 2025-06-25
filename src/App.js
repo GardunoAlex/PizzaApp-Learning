@@ -16,7 +16,7 @@ function App() {
 function Header(){
   return (
     // showing how the css works in the jsx. Can't use "class" like in html, have to use "className".
-  <h1 className='word'>Fast React Pizza Go</h1>);
+  <h1 className='word'>Fast React Pizza Go: we go fast</h1>);
 }
 
 function Menu(){
